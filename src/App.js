@@ -3,7 +3,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 import VideoPlayer from './components/VideoPlayer';
 
-export const STREAM_URL = 'https://ssh101.com/securelive/index.php?id=cric7dvv'
+export const STREAM_URL = 'https://ssh101.com/securelive/index.php?id=cric77'
 export const STREAM_TITLE = 'CSK vs MI'
 
 function App() {
