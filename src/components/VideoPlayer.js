@@ -12,7 +12,7 @@ function VideoPlayer(props) {
 
     return (
         <React.Fragment>
-            <iframe src={url} title={title} className="stream-player" />
+            <iframe src={url} title={title} className="stream-player" allowFullScreen/>
         </React.Fragment>
     )
 }
